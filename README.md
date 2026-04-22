@@ -8,7 +8,9 @@ Demonstrates the power of AI-generated content in the creative space.
 - Design Notes
 - Architecture
 - API Integration
-- V1 Mockups
+- V1 Build: Step 1
+- V1 Build: Step 2
+- V1 Build: Step 3
 - Feedback
 
 ## Use Case
@@ -43,7 +45,7 @@ Incorporate mixed-media (2D/3D images, embedded music player + songs, animated t
 - Experience Layer: Cinematic and animated with slow Ken Burn transitions.
   1. Hero - full-bleed image, animated Serif titla, slow Ken Burns zoom, scroll-clue.
   2. Chapters - scrool-snapped sections, fading/sliding in via IntersectionObserver. 3D-tagged images get mouse-tilt parallax.
-  3. Playlits - embedded sticky/floating Spotify (or YouTube) player
+  3. Playlists - embedded sticky/floating Spotify (or YouTube) player
   4. About - includes portrait of author + bio + NYT bestseller mark
   5. Typography
      a) Display: Cormorant Garamond
@@ -79,6 +81,10 @@ The front-end is built around placeholder author ELEANOR VANCE and her new book 
 - Connect author's WordPress.com account via Lovable Cloud
 - Live fetch will replace src/data/chapters.ts
 - Chapters will become WP posts (featured image = hero, excerpt = pull-quote,tag 3D parallax
+
+## V1 Build: Step 3
+- Publish site
+- Update content via WP posts
   
 ## Feedback
 Feedback welcome.
