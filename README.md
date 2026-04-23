@@ -14,7 +14,7 @@ Demonstrates the power of AI-generated content in the creative space.
 - Feedback
 
 ## Use Case
-Incorporate mixed-media (2D/3D images, embedded music player + songs, animated text) to bring stories to life.
+Author wants to incorporate mixed-media content (2D/3D images, digital music, animated text) to bring her memoir to life.
 
 ## Technology
 - Tech 1: Headless WP experiences (posts=chapters)
