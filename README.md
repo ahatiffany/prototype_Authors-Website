@@ -11,6 +11,7 @@ Demonstrates the power of AI-generated content in the creative space.
 - V1 Build: Step 1
 - V1 Build: Step 2
 - V1 Build: Step 3
+- AI-generated Page Layouts
 - Feedback
 
 ## Use Case
@@ -85,6 +86,25 @@ The front-end is built around placeholder author ELEANOR VANCE and her new book 
 ## V1 Build: Step 3
 - Publish site
 - Update content via WP posts
+
+## AI-generated Page Layouts
+- Landing + Hero
+- Chapters 1,2,3
+- Embeded Playlist (Spotify)
+- Author's Bio Page
+
+<img width="1875" height="801" alt="Landing Hero" src="https://github.com/user-attachments/assets/bc21ad4d-a867-4a6a-b7ed-da52c700251e" />&nbsp;
+<img width="1877" height="798" alt="Chapter 1" src="https://github.com/user-attachments/assets/e7b71f5e-e4ce-4e78-a572-5d4b860f90ef" />&nbsp;
+<img width="1872" height="799" alt="Chapter 2" src="https://github.com/user-attachments/assets/dbb9f379-f71d-4188-81c1-24e6dc4b0fda" />&nbsp;
+<img width="1881" height="799" alt="Chapter 3" src="https://github.com/user-attachments/assets/061fbbe1-0771-4e86-8f50-1117833f06cc" />&nbsp;
+<img width="1885" height="798" alt="Embedded Playlist" src="https://github.com/user-attachments/assets/e1d91541-0dcb-4b7b-bfdf-ea613a89609a" />&nbsp;
+<img width="1876" height="796" alt="Author Page" src="https://github.com/user-attachments/assets/d57b12db-fff8-4a17-9486-37a9469589b9" />
+
+
+
+
+
+  
   
 ## Feedback
 Feedback welcome.
